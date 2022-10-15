@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "kd_negara": "AS",
+        "nm_negara": "AMERIKA SERIKAT"
+    },
+    {
+        "id": 2,
+        "kd_negara": "HK",
+        "nm_negara": "HONGKONG"
+    },
+    {
+        "id": 3,
+        "kd_negara": "ID",
+        "nm_negara": "INDONESIA"
+    },
+    {
+        "id": 4,
+        "kd_negara": "IN",
+        "nm_negara": "INDIA"
+    }
+]

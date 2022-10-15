@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "img": "CSR%20Lingkungan%20Hidup%20untuk%20Hijaukan%20Bumi-nCCFD-1642398939kWjBf.jpg",
+        "category": "Eco-Act",
+        "title": "Environmental CSR Greening the Mother Earth",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "posted": "17 Jan 2022 / Miftachur Robani"
+    },
+    {
+        "id": 2,
+        "img": "CSR%20Sebagai%20Strategi%20Penghijauan-GkJlH-1641452313yHmED.jpg",
+        "category": "Eco-Act",
+        "title": "Environmental CSR as a Nature Conservation Strategy",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "posted": "6 Jan 2022 / Miftachur Robani"
+    },
+    {
+        "id": 3,
+        "img": "CSR%20Perusahaan%20di%20Bidang%20Lingkungan%20Hidup-ravmV%20(1)-1641451254sBjD2.jpg",
+        "category": "Eco-Act",
+        "title": "The Role of Environmental CSR to Greening Your Company",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "posted": "6 Jan 2022 / Miftachur Robani"
+    },
+    {
+        "id": 4,
+        "img": "Penghijauan%20oleh%20Bank%20DBS%20Indonesia-2ZFCn-16408455644Q9QV.jpg",
+        "category": "Eco-News",
+        "title": "DBS Bank Indonesia Plants Thousands of Trees",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "posted": "30 Dec 2021 / Miftachur Robani"
+    },
+    {
+        "id": 5,
+        "img": "Kerjasama%20Penghijauan%20bersama%20LindungiHutan-mgkm4-1639731019VwCHo.jpg",
+        "category": "Eco-Project",
+        "title": "Let's Make Various Regional Greening in Indonesia!",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "posted": "17 Dec 2021 / Miftachur Robani"
+    },
+    {
+        "id": 6,
+        "img": "LindungiHutan%20bersama%20dengan%20Perusahaan%20sebagai%20Partner%20Penanaman-wLJKp-1639111993Aq5cU.jpg",
+        "category": "Eco-Project",
+        "title": "Indonesian Forest Monitoring Technology",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "posted": "10 Dec 2021 / Miftachur Robani"
+    },
+    {
+        "id": 7,
+        "img": "Kontribusi%20PT%20Bintraco%20Dharma%20untuk%20Kuatkan%20Pesisir%20Indonesia-sqrEc-1638864449tXMjW.jpg",
+        "category": "Eco-News",
+        "title": "The Contribution of PT Bintraco Dharma in Strengthening of Indonesian Coast",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "posted": "7 Dec 2021 / Miftachur Robani"
+    },
+    {
+        "id": 8,
+        "img": "CSR%20Perusahaan%20di%20Bidang%20Lingkungan%20Hidup-ravmV-1638275178crIvG.jpg",
+        "category": "Eco-Act",
+        "title": "Environmental CSR Greens Your Company",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "posted": "30 Nov 2021 / Miftachur Robani"
+    },
+    {
+        "id": 9,
+        "img": "LindungiHutan%20sebagai%20Platform%20Konservasi%20Lingkungan-Vi2Dg-1638270330PJkqi.jpg",
+        "category": "Eco-Act",
+        "title": "That Environmental Conservation Platform Called Lindungi Hutan",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "posted": "30 Nov 2021 / Miftachur Robani"
+    }
+]

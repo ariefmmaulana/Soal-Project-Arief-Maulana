@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "kd_artis": "A001",
+    "nm_artis": "ROBERT DOWNEY JR",
+    "jk": "PRIA",
+    "bayaran": 0,
+    "award": 2,
+    "negara": "AS"
+  },
+  {
+    "id": 2,
+    "kd_artis": "A002",
+    "nm_artis": "ANGELINA JOLIE",
+    "jk": "WANITA",
+    "bayaran": 700000000,
+    "award": 1,
+    "negara": "AS"
+  },
+  {
+    "id": 3,
+    "kd_artis": "A003",
+    "nm_artis": "JACKIE CHEN",
+    "jk": "PRIA",
+    "bayaran": 200000000,
+    "award": 7,
+    "negara": "HK"
+  },
+  {
+    "id": 4,
+    "kd_artis": "A004",
+    "nm_artis": "JOE TASLIM",
+    "jk": "PRIA",
+    "bayaran": 350000000,
+    "award": 1,
+    "negara": "ID"
+  },
+  {
+    "id": 5,
+    "kd_artis": "A005",
+    "nm_artis": "CHELSEA ISLAN",
+    "jk": "WANITA",
+    "bayaran": 300000000,
+    "award": 0,
+    "negara": "ID"
+  }
+]

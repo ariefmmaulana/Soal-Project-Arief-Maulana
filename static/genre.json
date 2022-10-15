@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "kd_genre": "G001",
+        "nm_genre": "ACTION"
+    },
+    {
+        "id": 2,
+        "kd_genre": "G002",
+        "nm_genre": "HORROR"
+    },
+    {
+        "id": 3,
+        "kd_genre": "G003",
+        "nm_genre": "COMEDY"
+    },
+    {
+        "id": 4,
+        "kd_genre": "G004",
+        "nm_genre": "DRAMA"
+    },
+    {
+        "id": 5,
+        "kd_genre": "G005",
+        "nm_genre": "THRILLER"
+    },
+    {
+        "id": 6,
+        "kd_genre": "G006",
+        "nm_genre": "FICTION"
+    }
+]

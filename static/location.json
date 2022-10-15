@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "title": "Temukan Lokasi",
+        "desc": "Kami menanam pohon lebih dari 16 lokasi",
+        "map": "embed?pb=!1m18!1m12!1m3!1d15421052.823107079!2d109.60937991617153!3d-1.3081694332592237!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2c4c07d7496404b7%3A0xe37b4de71badf485!2sIndonesia!5e0!3m2!1sid!2sid!4v1665798232129!5m2!1sid!2sid", 
+        "question": "Punya lokasi lain untuk penanaman?",
+        "button": "Sarankan kami",
+        "titlebottom": "Buat <span>Dampak</span> Nyata Sekarang",
+        "descbottom": "Silahkan pelajari kamu lebih detail dengan mengunduh pitchdeck kami",
+        "buttonbottom": "Unduh",
+        "location": "17 Location",
+        "value": [
+            {
+                "id": 1,
+                "img": "24271594890984wkc7r4fbrdmf0r1bs4qvohuqxv5gmpyn8tfuj8wh.png",
+                "venue": "Kampung Laut, Cilacap",
+                "location": "Jawa Tengah" 
+            },
+            {
+                "id": 2,
+                "img": "24271587461153bekic7c1p4mmuqy0qhegtvxeporheircinef185i.png",
+                "venue": "Pesisir Trimulyo",
+                "location": "Jawa Tengah" 
+            },
+            {
+                "id": 1,
+                "img": "24271594890984wkc7r4fbrdmf0r1bs4qvohuqxv5gmpyn8tfuj8wh.png",
+                "venue": "Kampung Laut, Cilacap",
+                "location": "Jawa Tengah" 
+            }
+        ]
+    }
+]

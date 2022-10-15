@@ -1,0 +1,103 @@
+/* variable style */
+:root{
+  --color-primary: #33CDCF;
+  --color-primary-50: rgba(79, 226, 225, 0.5);
+  --color-primary-75: #C5FCFF;
+  --color-primary-25: #F1F9FF;
+  --color-secondary: #4FE2E1;
+  --color-success: #27D086;
+  --color-warning: #f2c84c;
+  --color-danger: #dc3545;
+  --color-white: #ffffff;
+  --color-black: #333333;
+  --color-navy: #212322;
+  --color-gray: #E0E0E0;
+  --color-gray2: #F2F2F2;
+  --color-blue: #0051FD;
+}
+
+/* background style */
+.bg-primary{
+  background-color: var(--color-primary) !important;
+}
+.bg-secondary{
+  background-color: var(--color-secondary) !important;
+}
+.bg-success{
+  background-color: var(--color-success) !important;
+}
+.bg-white{
+  background-color: var(--color-white) !important;
+}
+.bg-black{
+  background-color: var(--color-black) !important;
+}
+.bg-gray {
+  background-color: var(--color-gray2) !important;
+}
+
+/* color style */
+.color-primary{
+  color: var(--color-primary);
+}
+.color-secondary{
+  color: var(--color-secondary);
+}
+.color-success{
+  color: var(--color-success);
+}
+.color-white{
+  color: var(--color-white);
+}
+.color-black{
+  color: var(--color-black);
+}
+.color-navy{
+  color: var(--color-navy);
+}
+.color-transparent{
+  color: rgba(0, 0, 0, 0);
+}
+
+/* font style */
+.fs-normal{
+  font-style: normal;
+}
+.fs-italic{
+  font-style: italic;
+}
+.fs-oblique{
+  font-style: oblique;
+}
+
+/* font weight */
+.fw-normal{
+  font-weight: normal;
+}
+.fw-100{
+  font-weight: 100;
+}
+.fw-200{
+  font-weight: 200;
+}
+.fw-300{
+  font-weight: 300;
+}
+.fw-400{
+  font-weight: 400;
+}
+.fw-500{
+  font-weight: 500;
+}
+.fw-600{
+  font-weight: 600;
+}
+.fw-700{
+  font-weight: 700;
+}
+.fw-800{
+  font-weight: 800;
+}
+.fw-900{
+  font-weight: 900;
+}

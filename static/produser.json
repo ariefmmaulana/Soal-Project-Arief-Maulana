@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "kd_produser": "PD01",
+        "nm_produser": "MARVEL",
+        "international": "YA"
+    },
+    {
+        "id": 2,
+        "kd_produser": "PD02",
+        "nm_produser": "HONGKONG CINEMA",
+        "international": "YA"
+    },
+    {
+        "id": 3,
+        "kd_produser": "PD03",
+        "nm_produser": "RAPI FILM",
+        "international": "TIDAK"
+    },
+    {
+        "id": 4,
+        "kd_produser": "PD04",
+        "nm_produser": "PARKIT",
+        "international": "TIDAK"
+    },
+    {
+        "id": 5,
+        "kd_produser": "PD05",
+        "nm_produser": "PARAMOUNT PICTURE",
+        "international": "YA"
+    }
+]
